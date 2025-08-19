@@ -558,7 +558,7 @@ else
 echo "$val1 is less than $val2"
 fi
 ```
-##OUTPUT
+## OUTPUT
 
 <img width="363" height="277" alt="image" src="https://github.com/user-attachments/assets/9b2089f1-628c-4cae-9854-31ab00541e89" />
 
@@ -687,7 +687,7 @@ fi
 $ chmod 755 iftest.sh
  
 $ ./iftest.sh 
-##OUTPUT
+## OUTPUT
 <img width="530" height="582" alt="Screenshot 2025-08-18 131157" src="https://github.com/user-attachments/assets/3d0aa2af-53cd-4248-a587-f18e9dec045d" />
 
 
